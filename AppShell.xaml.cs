@@ -1,4 +1,4 @@
-﻿namespace Sci_Calculator;
+﻿namespace SciCalculator;
 
 public partial class AppShell : Shell
 {
